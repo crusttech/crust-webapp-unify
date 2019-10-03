@@ -2792,7 +2792,7 @@ core-util-is@1.0.2, core-util-is@~1.0.0:
 
 corteza-webapp-common@cortezaproject/corteza-webapp-common.git#master:
   version "2019.9.0-rc.29"
-  resolved "https://codeload.github.com/cortezaproject/corteza-webapp-common/tar.gz/286e70b69610c88c013e1485f39ad8563daccb41"
+  resolved "https://codeload.github.com/cortezaproject/corteza-webapp-common/tar.gz/30f8fab66ca8b229581c964ef5a19c3584d189a6"
   dependencies:
     diff "4.0.1"
     mime-types "2.1.24"
@@ -2803,7 +2803,7 @@ corteza-webapp-common@cortezaproject/corteza-webapp-common.git#master:
 
 corteza-webapp-one@cortezaproject/corteza-webapp-one.git#master:
   version "2019.10.0-rc.1"
-  resolved "https://codeload.github.com/cortezaproject/corteza-webapp-one/tar.gz/49220b7736599e302f57e0f2e2a0067fc5e98097"
+  resolved "https://codeload.github.com/cortezaproject/corteza-webapp-one/tar.gz/d08a90f605b778bd688b3a5e6922f76cbb2aaf0a"
   dependencies:
     "@panter/vue-i18next" "^0.15.0"
     axios "^0.18.0"
